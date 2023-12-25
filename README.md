@@ -1,2 +1,2 @@
 # EEMP
-This is hte bioinformatic workflow to identify putative PET-degrading enzymes
+This is the bioinformatic workflow to identify putative PET-degrading enzymes
